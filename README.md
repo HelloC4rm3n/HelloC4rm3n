@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Carmen, a Software Engineer 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">I'm Carmen, a Technical Writer 👨‍💻 working remotely since 2016 🚀</div>  
   
 
 - 🔭 I’m currently working on something exciting!  
